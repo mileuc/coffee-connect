@@ -2103,3 +2103,7 @@ section {
     opacity: 0.9;
     padding: 0.5rem;
 }
+
+.portfolio-container {
+    z-index: 1;
+}
