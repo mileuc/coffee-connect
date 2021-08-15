@@ -1934,7 +1934,7 @@ section {
   bottom: 0;
   width: 100%;
   text-align: center;
-  z-index: 999;
+  z-index: 1;
 }
 
 #footer .footer-top {
