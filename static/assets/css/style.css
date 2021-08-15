@@ -11,6 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
+  min-height: 100vh;
 }
 
 a {
@@ -2095,4 +2096,9 @@ section {
     background-color: #737780;
     opacity: 0.9;
     padding: 0.5rem;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
 }
