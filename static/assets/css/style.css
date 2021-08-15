@@ -8,6 +8,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+html {
+    height: 100%;
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -770,7 +773,6 @@ section {
   justify-content: flex-end;
   align-items: flex-start;
   padding: 20px;
-  min-height
 }
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
