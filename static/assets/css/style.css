@@ -699,6 +699,9 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio {
+    padding-bottom: 120px;
+}
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
