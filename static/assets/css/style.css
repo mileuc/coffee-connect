@@ -2098,7 +2098,7 @@ section {
     padding: 0.5rem;
 }
 
-.footer {
+#footer {
     position: absolute;
     bottom: 0;
 }
