@@ -2086,6 +2086,10 @@ section {
   color: white;
 }
 
+.cafe-form {
+    padding-bottom: 120px;
+}
+
 .cafe-form .form-group{
     margin: 1rem 0;
 }
