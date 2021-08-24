@@ -67,7 +67,7 @@ def home():
         if cafe.location not in locations:
             locations.append(cafe.location)
     # print(locations)
-    locations = sorted(locations, key=str.lower)
+    locations = sorted(locations, key=str.lower)    # lower case for use as styling class names
 
     return render_template("index.html", all_cafes=cafes, all_locations=locations, year=CURRENT_YEAR)
 
